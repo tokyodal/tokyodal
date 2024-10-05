@@ -1,4 +1,9 @@
-## Hi there 👋
+### I'm Aya, a Digital Marketer from Tokyo
+
+I'm a Full-Stack Digital Marketing Manager with a primary focus on B2B SaaS at JTX Inc.
+
+- 🔭 I’m currently working on JTX DM Platform
+- 🌱 I’m currently learning Marketing Management
 
 <!--
 **tokyodal/tokyodal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
